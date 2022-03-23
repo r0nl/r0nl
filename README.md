@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Upgrading my skills in ML**
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently learning **Deep Learning and Neural Networks**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
